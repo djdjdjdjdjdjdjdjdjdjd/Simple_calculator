@@ -8,4 +8,4 @@ wish you good fun!
 
 note: the program is easy to crash
 
-https://banner2.cleanpng.com/20180419/khe/kisspng-batch-file-batch-processing-computer-software-info-black-and-white-icon-5ad95691261920.9379731715241929131561.jpg
+![image](https://github.com/djdjdjdjdjdjdjdjdjdjd/Simple_calculator/assets/118541810/00a18dfc-8425-4926-adaf-90d47eb8d5cd)
