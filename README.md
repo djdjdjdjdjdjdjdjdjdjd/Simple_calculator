@@ -6,7 +6,7 @@ wish you good fun!
 
 
 
-note: the program is easy to crash
+note: the program is easy to crash since it's one of my first projects
 
 ![Uploading image.png…]()
 
