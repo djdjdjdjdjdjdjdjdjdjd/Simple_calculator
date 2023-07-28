@@ -7,6 +7,7 @@ wish you good fun!
 
 
 note: the program is easy to crash since it's one of my first projects
+i created it only because of coding practice
 
 ![image](https://github.com/djdjdjdjdjdjdjdjdjdjd/Simple_calculator/assets/118541810/5be0448d-ebde-4343-adad-035e8fab0f0e)
 
